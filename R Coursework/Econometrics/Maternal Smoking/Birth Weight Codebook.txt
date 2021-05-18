@@ -1,0 +1,9 @@
+ Variable  
+ Description  
+
+ bwt
+ Birth weight in ounces
+ smoke
+
+ Smoking status of mother 
+  0=not now, 1=yes now, 9=unknown
